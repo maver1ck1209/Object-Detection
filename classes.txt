@@ -1,0 +1,1 @@
+["cabinet", "traffic", "bollard", "barrier", "dyellow", "busstop", "busstop_road", "busstop_sign", "postbox"]

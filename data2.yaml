@@ -1,0 +1,4 @@
+train: labels_train
+val: labels_test
+nc: 9
+names: ['barrier', 'bollard', 'busstop', 'busstop_road', 'busstop_sign', 'cabinet', 'dyellow', 'postbox', 'traffic']
